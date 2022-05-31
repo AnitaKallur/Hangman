@@ -1,6 +1,6 @@
 # Hangman
 This is a Python script of the classic game "Hangman". 
-It picks any random word from the wordlist we have created and displays it in a row of dashes. 
+It picks any random word from the wordlist that we have created and displays it in a row of dashes. 
 If the player guesses a correct letter in the word, the script writes it in its correct position. 
 You can easily customize the game by changing variables.
 # How to play
